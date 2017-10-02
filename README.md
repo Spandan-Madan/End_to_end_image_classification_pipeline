@@ -1,3 +1,5 @@
+![mit-logo](https://csailprettycommittee.mit.edu/sites/default/files/images/MIT_logo.png)
+
 # End to end image classification pipeline
 
 Most onlin tutorials present image classification as a problem of training a neural network. And there's at least a 100 tutorials on how to do that. If that is what you need, I recommend looking at [this tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial) of mine on fine tuning.
