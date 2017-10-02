@@ -6,6 +6,6 @@ But, there are many other steps that you need to understand and get right if you
 
 Some of the things this tutorial will teach you include - 
 
-[] Preparing your data the right way. Data augmentation using transforms, loading and making sure you exactly know what you're feeding in to your network to learn. Remember, if your input doesn't look meaningful, the network really can't learn anything meaningful!
-[] Visualizing your results
-[] Evaluating your results. Classification accuracy is a single number which tells you hardly anything about how your network is working. In order to improve your network's performance it is important you understand how it works, when it fails, what it overfits to, what it fails to learn. And so on and so forth.
+- [] Preparing your data the right way. Data augmentation using transforms, loading and making sure you exactly know what you're feeding in to your network to learn. Remember, if your input doesn't look meaningful, the network really can't learn anything meaningful!
+- [] Visualizing your results
+- [] Evaluating your results. Classification accuracy is a single number which tells you hardly anything about how your network is working. In order to improve your network's performance it is important you understand how it works, when it fails, what it overfits to, what it fails to learn. And so on and so forth.
