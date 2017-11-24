@@ -2,9 +2,9 @@
 
 # End to end image classification pipeline
 
-Most onlin tutorials present image classification as a problem of training a neural network. And there's at least a 100 tutorials on how to do that. If that is what you need, I recommend looking at [this tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial) of mine on fine tuning.
+Most online tutorials on image classification spend time talking about how to train a network. With the advent of PyTorch, Tensorflow and other frameworks for deep learning, training a network is in fact the easiest part of the pipeline. If you're looking for something along those lines, I have written tutorials in [Keras](https://github.com/Spandan-Madan/DeepLearningProject) and in [PyTorch](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial) that you can refer to.
 
-But, there are many other steps that you need to understand and get right if you want to be sure you're doing something right. Otherwise, chances are high you'll fall prey to one of the biggest problems in Machine Learning - "Garbage In, Garbage Out".
+There are many other steps that you need to understand and get right if you want to be sure you're doing image classification right. Otherwise, chances are high you'll fall prey to one of the biggest problems in Machine Learning - "Garbage In, Garbage Out".
 
 Some of the things this tutorial will teach you include - 
 
